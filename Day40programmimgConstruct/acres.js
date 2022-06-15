@@ -1,0 +1,12 @@
+console.log("read length of rectangle:");
+let l=30;
+console.log("read breadth of rectangle: ");
+let b=50;
+let a = l * b;
+console.log("area of plot in feet", +a);
+ let metercon=0.092903;
+let meter= a * metercon * 25;
+console.log("area of 25 plots in meters", +meter);
+var sqmetertoacre=0.000247105;
+let acre = meter * sqmetertoacre;
+console.log("in acres", +acre);
