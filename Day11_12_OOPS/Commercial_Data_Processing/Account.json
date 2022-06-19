@@ -1,0 +1,21 @@
+{
+  "AccountList\": [" {
+    "Stockholder": "Somu",
+    "StockName": "Bank Of Baroda",
+    "shares": 3,
+    "Price": 150
+  },
+  {
+    "Stockholder": "Somu",
+    "StockName": "Yes",
+    "shares": 2,
+    "Price": 100
+  },
+  {
+    "Stockholder": "Somu",
+    "StockName": "Tcs",
+    "shares": 5,
+    "Price": 20
+  },
+  ]
+}

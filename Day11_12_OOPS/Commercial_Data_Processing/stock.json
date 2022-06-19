@@ -1,0 +1,25 @@
+{
+  "stocksList": [
+    {
+      "StockName": "Bank Of Baroda",
+      "shares": 15,
+      "Price": 120
+    },
+    {
+      "StockName": "Tcs",
+      "shares": 12,
+      "Price": 60
+    },
+    {
+      "StockName": "Syndicate",
+      "shares": 3,
+      "Price": 180
+    },
+    {
+      "StockName": "Yes",
+      "shares": 1,
+      "Price": 150
+    }
+  ]
+}
+ 
